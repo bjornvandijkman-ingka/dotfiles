@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bjorn.van.dijkman@ingka.com
+	name = Bjorn van Dijkman
